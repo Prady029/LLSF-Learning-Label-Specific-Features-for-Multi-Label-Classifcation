@@ -29,7 +29,7 @@ setup(
     long_description=get_long_description(),
     long_description_content_type='text/markdown',
     author='Prady029',
-    author_email='',
+    author_email='prady029@duck.com',
     url='https://github.com/Prady029/LLSF-Learning-Label-Specific-Features-for-Multi-Label-Classifcation',
     packages=find_packages(),
     install_requires=[
